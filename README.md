@@ -3,6 +3,6 @@ This is a project for interns to understand git
 
 
 
-My name is **Sourabh**
+My name is **Rahul**
 
-I am interacting with girls from _GCG_
+I am interacting with girls from _SGM_
